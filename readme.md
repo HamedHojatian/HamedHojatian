@@ -1,4 +1,4 @@
-Hi 👋 My name is Hamed Hojatian 
+My name is Hamed Hojatian 
 ===============================  
 Ph.D. Student @PolyMTL 
 ----------------------  
