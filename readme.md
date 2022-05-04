@@ -1,6 +1,7 @@
 Hi 👋 My name is Hamed Hojatian 
 ===============================  
-Ph.D. Student @PolyMTL ----------------------  
+Ph.D. Student @PolyMTL 
+----------------------  
 * 🌍  I'm based in Montreal, QC, CA 
 * ✉️  You can contact me at [hamed.hojatian.ca@gmail.com]
 
