@@ -1,7 +1,5 @@
-Hamed Hojatian 
-===============================  
-Ph.D. Student @PolyMtl
-----------------------  
+Hamed Hojatian Ph.D.
+=============================== 
 * 🌍  I'm based in Montreal, QC, CA 
 * 🖥️   See my portfolio in details [here.](http://hamedhojatian.github.io)
 * ✉️  You can contact me at [hamed.hojatian.ca@gmail.com]
